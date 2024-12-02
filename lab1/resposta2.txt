@@ -1,0 +1,14 @@
+Cite três ferramentas ou tecnologias amplamente usadas no
+desenvolvimento web e explique como elas ajudam no processo
+de criação de aplicações web.
+
+HTML: Uilitzado para organizar as informações que serão
+mostradas nas páginas dentro dos sites.
+
+CSS: Responsável por adicionar um estilo e um lauout ao HTML,
+tendo em vista que o HTML permite apeas adicionar o contéudo na páginas,
+mas não permite modificá-lo, mas com o CSS isso se torna possível.
+
+JavaScript: Uilziado para tornar a página mais dinâmica, trazendo uma lógica
+para a estrutura utilizada, como por exemplo, permitir a validação de formulários
+dentro da página.

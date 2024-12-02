@@ -1,0 +1,14 @@
+Considere o cenário em que você está trabalhando em um projeto
+de site com sua dupla. Qual seria sua abordagem inicial para
+organizar as tarefas, escolher ferramentas e implementar boas
+práticas de versionamento e desenvolvimento?
+
+Primeiramente, colocariamos a ideia no papel para deixar bem detalhado o que
+será feito no projeto. Tendo isso em mente, fariamos algumas pesquisas para
+definir quais serão as ferramentas mais práticas e ideais para o nosso projeto,
+levando em consideração funcionalidades que iremos necessitar, complexidade de
+implementação e tempo necessário, caso não tenhamos conhecimento da tecnologia,
+para o aprendizado na determinada tecnologia. Seguindo para as boas práticas,
+fariamos commits regurlamente para manter o código sempre atualizado e sempre em
+períodos em que determinada funcionalidade fosse concluída por exemplo, mantendo sempre
+o padrão estipulado no início do projeto.
