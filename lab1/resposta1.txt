@@ -3,6 +3,9 @@ Web no contexto da evolução da internet. Como essas tecnologias
 mudaram a forma como a informação é compartilhada
 globalmente?
 
+
+
+
 O World Wide Web foi criado pela alta necessidade de
 informação em diferentes partes do mundo de maneira rápida 
 e eficiente. Enquanto o HTML foi criado para ser utilizada como

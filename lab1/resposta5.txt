@@ -3,6 +3,9 @@ de site com sua dupla. Qual seria sua abordagem inicial para
 organizar as tarefas, escolher ferramentas e implementar boas
 práticas de versionamento e desenvolvimento?
 
+
+
+
 Primeiramente, colocariamos a ideia no papel para deixar bem detalhado o que
 será feito no projeto. Tendo isso em mente, fariamos algumas pesquisas para
 definir quais serão as ferramentas mais práticas e ideais para o nosso projeto,
